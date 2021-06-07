@@ -1,0 +1,1 @@
+https://csfx-py.github.io/college/
